@@ -1,0 +1,39 @@
+.body {
+    color: rgba(78, 74, 74, 0.718);
+    font-family: sans-serif;
+    
+}
+
+.linea{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.lista{
+    color: rgba(40, 91, 210, 0.792);}
+
+.rojo {
+    background-color:  rgb(144, 43, 43);
+    color: black;
+}
+
+.amarillo{
+
+    background-color: rgb(253, 253, 82);
+}
+
+.verde{
+    background-color: green;
+}
+
+.violeta{
+    background-color: blueviolet;
+}
+
+.naranja{
+    background-color: orange;
+}
+
+.gris{
+    background-color: gray;
+}
